@@ -1,6 +1,6 @@
 
-# Readme do Projeto de Certificadora 2
-Bem-vindo ao projeto de Certificadora 2! Este projeto tem como objetivo fornecer uma ferramenta interativa para simulação e visualização de movimentos físicos. Se você está estudando física e deseja entender melhor o comportamento de partículas em movimento retilíneo uniforme, movimento retilíneo uniformemente variado ou movimento vertical, este é o lugar certo.
+# Projeto de Certificadora 2
+Este projeto tem como objetivo fornecer uma ferramenta interativa para simulação e visualização de movimentos físicos. Se você está estudando física e deseja entender melhor o comportamento de partículas em movimento retilíneo uniforme, movimento retilíneo uniformemente variado ou movimento vertical, este é o lugar certo.
 
 ## Sobre o Projeto
 O projeto é uma aplicação simples e interativa desenvolvida em Python. Ele oferece um menu intuitivo que permite ao usuário escolher entre diferentes tipos de movimentos físicos para simulação. A aplicação fornece gráficos visuais para facilitar a compreensão dos conceitos de posição, velocidade e aceleração ao longo do tempo.
